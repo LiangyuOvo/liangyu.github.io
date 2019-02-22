@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cakes and Ale Club</title>
+  <icon>https://www.gravatar.com/avatar/2007152c4f9b248eeb83fad669957cfe</icon>
+  <subtitle>For Fun</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.liangyuovo.club/"/>
+  <updated>2019-02-22T12:20:34.315Z</updated>
+  <id>http://www.liangyuovo.club/</id>
+  
+  <author>
+    <name>Liangyu</name>
+    <email>liangyu0111@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开心就好</title>
+    <link href="http://www.liangyuovo.club/2019/02/22/Meee/"/>
+    <id>http://www.liangyuovo.club/2019/02/22/Meee/</id>
+    <published>2019-02-21T16:00:00.000Z</published>
+    <updated>2019-02-22T12:20:34.315Z</updated>
+    
+    <summary type="html">
+    
+      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;298&quot; height=&quot;52&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=539954686&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;大家有什么小怪癖嘛？就我个人来说，我在出差旅游落地后非常需要家人、男友或者朋友来接机！我闺蜜就会觉得：还好吧，行李不多，自己打个车就回去了呗。我不行，来机场接我这事非常重要，不来接我就难受，我就觉得被忽视了。&lt;/p&gt;
+&lt;p&gt;这次回来非常巧的就是我高中同学、大学同学和研究生同学正好都在北京，大家就约好一起先来接我然后去吃饭。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>神雕夫妇</title>
+    <link href="http://www.liangyuovo.club/2019/02/05/shendiao/"/>
+    <id>http://www.liangyuovo.club/2019/02/05/shendiao/</id>
+    <published>2019-02-04T16:00:00.000Z</published>
+    <updated>2019-02-11T12:17:59.858Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我没有多少故事可以讲，也不会以死亡或婚姻这类大结局来收场。这篇写的是我对一个朋友的回忆，确切的说是对他们一家三口的回忆。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>天使女孩</title>
+    <link href="http://www.liangyuovo.club/2018/12/31/ANGLE/"/>
+    <id>http://www.liangyuovo.club/2018/12/31/ANGLE/</id>
+    <published>2018-12-30T16:00:00.000Z</published>
+    <updated>2019-01-07T14:54:15.028Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;很多时候，我都在幻想，也许换一个地方，换换环境，自己的人生就会有些起色。等真换地方生活了一段，这幻觉也就自然而然地破灭了，在上海和在北京没什么不同，在中国跟在其它国家没什么区别，生活中总是有带给你欢乐也有让你发愁的人事物。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>寻欢作乐</title>
+    <link href="http://www.liangyuovo.club/2018/11/01/Start/"/>
+    <id>http://www.liangyuovo.club/2018/11/01/Start/</id>
+    <published>2018-10-31T16:00:00.000Z</published>
+    <updated>2019-01-29T12:21:03.118Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;毛姆是我很喜欢的一位作家，他写的「寻欢作乐」里面有一段话，大意是说：也许人类本来就是一个无足轻重的行星上的短暂居民，从时间永恒的角度来说，一个人一生的痛苦和奋斗都只不过是个笑话。&lt;/p&gt;
+&lt;p&gt;那么不要「浪费时间」本身就变成了一个荒谬的忠告。我们从来就不拥有时间，又怎么浪费时间呢？是时间拥有着我们，而时间也已经证明了，它谁都不在乎。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
